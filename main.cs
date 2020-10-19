@@ -15,6 +15,9 @@ public class MainClass
     list.pop(); 
     list.pop("England");
     list.print();
+
+    // Write your code beneath here
+    
   }
 }
 
